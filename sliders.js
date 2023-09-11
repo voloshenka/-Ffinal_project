@@ -19,8 +19,8 @@ let newsSwiper = new Swiper(".news-swiper", {
     clickable: true,
   },
 
-  // autoplay: {
-  //   delay: 3000,
-  // },
-  // loop: true,
+  autoplay: {
+  delay: 3000,
+   },
+  loop: true,
 });
